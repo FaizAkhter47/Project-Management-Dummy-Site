@@ -1,0 +1,25 @@
+{
+  "name": "property-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "db": "^6.0.3",
+    "lucide-react": "^0.368.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^7.6.0",
+    "mongoose": "^9.10.2",
+    "next": "^16.3.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}
